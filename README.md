@@ -9,3 +9,12 @@ OS information
 * Description: Ubuntu 18.04.2 LTS
 * Release: 18.04
 * Codename: bionic
+
+### train.py
+Train a model with MNIST dataset
+
+### metrics.py
+Report loss & accuracy of trained model
+
+### predict.py
+Predict value of an input image
